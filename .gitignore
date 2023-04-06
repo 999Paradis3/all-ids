@@ -1,0 +1,67 @@
+**SKINS**
+Make sure you add these to an Item Granter.
+ 
+--Tresspasser
+/Script/FortniteGame.FortWeaponRangedItemDefinition'/Game/Athena/AI/NPCs/Tandem/Base/Items/AGID_BrawnySmasher.AGID_BrawnySmasher'
+ 
+--Summer Shadow Henchmen
+/Script/FortniteGame.FortWeaponRangedItemDefinition'/Game/Athena/Items/EnvironmentalItems/HidingProps/Props/PhantomBooth/AGID_Disguise_Alter_Shorts_1.AGID_Disguise_Alter_Shorts_1'
+ 
+--Doom Henchmen
+/Script/FortniteGame.FortWeaponRangedItemDefinition'/Game/Athena/Items/EnvironmentalItems/HidingProps/Props/PhantomBooth/AGID_Disguise_Date.AGID_Disguise_Date'
+ 
+--Deadpool
+/Script/FortniteGame.FortWeaponRangedItemDefinition'/Game/Athena/Items/EnvironmentalItems/HidingProps/Props/PhantomBooth/AGID_Disguise_Donut.AGID_Disguise_Donut'
+ 
+--Ghost Henchmen [Glitched]
+/Script/FortniteGame.FortWeaponRangedItemDefinition'/Game/Athena/Items/EnvironmentalItems/HidingProps/Props/PhantomBooth/AGID_Disguise_Ego_LTM.AGID_Disguise_Ego_LTM'
+ 
+--Shadow Henchmen
+/Script/FortniteGame.FortWeaponRangedItemDefinition'/Game/Athena/Items/EnvironmentalItems/HidingProps/Props/PhantomBooth/AGID_Disguise_Alter_LTM.AGID_Disguise_Alter_LTM'
+ 
+--Summer Ghost Henchmen
+/Script/FortniteGame.FortWeaponRangedItemDefinition'/Game/Athena/Items/EnvironmentalItems/HidingProps/Props/PhantomBooth/AGID_Disguise_Ego_Shorts_1.AGID_Disguise_Ego_Shorts_1'
+ 
+--Kit's Henchmen
+/Script/FortniteGame.FortWeaponRangedItemDefinition'/Game/Athena/Items/EnvironmentalItems/HidingProps/Props/PhantomBooth/AGID_Disguise_Scrapyard.AGID_Disguise_Scrapyard'
+ 
+--Chitauri [Can be put in an item spawner + gives Chitauri Weapons]
+/Script/FortniteGame.AthenaGadgetItemDefinition'/Game/Athena/Items/Gameplay/Backpacks/Ashton/Milo/AGID_AshtonPack_Milo.AGID_AshtonPack_Milo'
+
+
+
+**WEAPONS**
+--Zapotron
+/Script/FortniteGame.FortWeaponRangedItemDefinition'/SaveTheWorld/Items/Weapons/Ranged/Sniper/AMR/WID_Sniper_AMR_SR_Crystal_T05.WID_Sniper_AMR_SR_Crystal_T05'
+ 
+--Shotgun God
+/Script/FortniteGame.FortWeaponRangedItemDefinition'/SaveTheWorld/Items/Weapons/Ranged/WIP/ShotGod.ShotGod'
+ 
+--TestGod Gun
+/Script/FortniteGame.FortWeaponRangedItemDefinition'/SaveTheWorld/Items/Weapons/Ranged/WIP/TestGod.TestGod'
+ 
+--Troll Launcher 
+/Script/FortniteGame.FortWeaponRangedItemDefinition'/SaveTheWorld/Items/Weapons/Ranged/WIP/WID_Troll_Launcher_Durability.WID_Troll_Launcher_Durability'
+ 
+--Knight
+/Script/FortniteGame.FortWeaponRangedItemDefinition'/SaveTheWorld/Items/Weapons/Ranged/Shotgun/Standard/WID_Shotgun_Standard_UC_Ore_T03.WID_Shotgun_Standard_UC_Ore_T03'
+Escudo de capitan america /Game/Athena/Items/Gameplay/Backpacks/Ashton/Chicago/AGID_AshtonPack_Chicago.AGID_AshtonPack_Chicago
+
+--Thanos Gauntlent: 
+/Game/Athena/Items/Gameplay/Backpacks/Ashton/AGID_AshtonPack.AGID_AshtonPack
+Martillo de thor: /Game/Athena/Items/Gameplay/Backpacks/Ashton/Turbo/AGID_AshtonPack_Turbo.AGID_AshtonPack_Turbo
+
+wolverine: 
+/WasabiGameplay/Items/Wasabi/Claws/WID_Wasabi_Claws.WID_Wasabi_Claws 
+
+--Hawkeye Bow: 
+/Game/Athena/Items/Gameplay/Backpacks/Ashton/Hippo/AGID_AshtonPack_Hippo.AGID_AshtonPack_Hippo
+
+Repulsores de Iron Man: 
+/Game/Athena/Items/Gameplay/Backpacks/Ashton/Indigo/AGID_AshtonPack_Indigo.AGID_AshtonPack_Indigo
+
+Jetpack Chitauri: 
+/Game/Athena/Items/Gameplay/Backpacks/Ashton/Milo/AGID_JetPack_AshtonPack_Milo.AGID_JetPack_AshtonPack_Milo
+
+Arma Chitauri: 
+/Game/Athena/Items/Gameplay/Backpacks/Ashton/Milo/AGID_AshtonPack_Milo.AGID_AshtonPack_Milo 
